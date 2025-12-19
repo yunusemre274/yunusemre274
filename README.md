@@ -1,57 +1,89 @@
-<h1 align="center">👋 Hey there, I'm Yunus Emre Duman</h1>
+🧠 Yunus Emre Duman
+AI Enthusiast • Computer Engineer • Systems-Oriented Thinker
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Local+LLMs+%26+AI+Agents;Performance+%26+Low-Latency+Systems;Engineering+Mindset+over+Buzzwords" /> </p>
+🧩 Profile Snapshot
 
-<p align="center">
-  <b>2nd-Year Computer Engineering Student | AI & Data Enthusiast</b>
-</p>
+🧠 **️AI systems, local LLMs, agent architectures
 
----
+⚡ Performance-focused design (low latency, efficiency)
 
-### 🚀 About Me
-- 🎓 I’m currently a **Computer Engineering student** in Türkiye.
-- 🤖 Passionate about **Machine Learning, Data Analysis, and AI Systems**.
-- 💻 Building projects with **Python, JavaScript, and TypeScript**.
-- 🌍 Interested in studying **abroad with scholarships** and exploring **AI-driven solutions**.
-- 🧠 Always learning — currently diving into **MLOps and backend architecture**.
-- ✨ I love clean, minimal, and purposeful code (KISS principle believer).
+🧪 Engineering-first experimentation
 
----
+🖥️ Strong interest in how things work internally
 
-### 🧰 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,express,sqlite,git,github,vscode" />
-</p>
+I care more about intelligence, performance, and system behavior than shiny abstractions.
 
----
+🧠 AI & Intelligence Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" /> </p>
 
-### 📫 Connect with Me
+Concepts & Techniques
 
-- 📧 **Email:** [yunusemreduman274@gmail.com](mailto:yunusemreduman274@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/yunus-emre-duman-b8177b309](https://www.linkedin.com/in/yunus-emre-duman-b8177b309)
-- 🧠 **Kaggle:** [kaggle.com/yunusemreduman](https://www.kaggle.com/yunusemreduman)
-- 💻 **GitHub:** [github.com/yunusemre274](https://github.com/yunusemre274)
-- 📷 **Instagram:** [@yunusemre.zp](https://www.instagram.com/yunusemre.zp/?next=%2F)
+LLMs (local & hosted)
 
----
+Prompt Engineering
 
-### 🌱 Currently Working On
-- 🧩 My personal **AI Assistant Backend Project**
-- 🖥️ Portfolio website (Frontend via Loveable, Backend via VSCode + Node.js)
-- 🧠 Improving skills in **data visualization & MLOps**
+AI Agents
 
----
+Inference Pipelines
 
-### 🧾 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunusemre274&show_icons=true&theme=tokyonight" alt="Yunus's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemre274&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+Tokenization & Embeddings
 
----
+Latency optimization
 
-### 💬 Quote I Follow
-> “Simplicity is the soul of efficiency.” — Austin Freeman
+Model ↔ system interaction
 
----
+🛠️ Programming Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,cs,dart,java&theme=dark" /> </p>
 
-<p align="center">⭐ If you like what I do, consider giving my repositories a star!</p>
+Used for engineering purposes, not framework collection.
+
+⚙️ Backend, Runtime & Systems
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,sqlite,postgres,mysql&theme=dark" /> </p>
+
+REST APIs
+
+Local inference servers
+
+Lightweight databases
+
+Performance-aware backend logic
+
+🎨 UI / Visualization (Supportive Role)
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,flutter,html,css&theme=dark" /> </p>
+
+UI is a tool, not the goal.
+
+☁️ Cloud & Infrastructure (Present + Planned)
+<p align="center"> <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,aws,gcp,azure&theme=dark" /> </p>
+
+Dockerized environments
+
+CI/CD via GitHub Actions
+
+Cloud-native AI deployment (learning & experimentation)
+
+🧰 Tooling & Dev Environment
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,jetbrains,postman,bash&theme=dark" /> </p>
+📊 GitHub Analytics (Live)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yunusemre274&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunusemre274&theme=tokyonight&hide_border=true" width="48%" /> </p>
+🧠 Language Distribution
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemre274&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+📈 Contribution Activity Graphs
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yunusemre274&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yunusemre274&theme=tokyo-night&hide_border=true" /> </p>
+🔬 Current Focus Areas
+
+🤖 Local LLM systems (Ollama)
+
+🧠 AI agent orchestration
+
+⚡ Latency & performance optimization
+
+🧪 Experimental AI tools
+
+🧩 Engineering-driven AI design
+
+🐍 Contribution Snake (Animated)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+🌍 Connect
+<p align="center"> <a href="https://github.com/yunusemre274"> <img src="https://img.shields.io/badge/GitHub-yunusemre274-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Yunus%20Emre%20Duman-0A66C2?style=for-the-badge&logo=linkedin" /> </a> </p>
