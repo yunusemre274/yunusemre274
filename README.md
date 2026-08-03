@@ -91,7 +91,7 @@ Cloud-native AI deployment (learning & experimentation)
 ---
 
 <p align="center">
-  <a href="https//:www.yunusemreduman.com" target="_blank">
+  <a href="https://www.yunusemreduman.com" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/%3C%2F%3E%20Portfolio%20Website-Visit-7AA2F7?style=for-the-badge&logo=code&logoColor=white" />
   </a>
 </p>
