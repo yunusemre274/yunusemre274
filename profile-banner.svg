@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" width="1200" height="310" role="img" aria-labelledby="title desc">
+  <title id="title">Yunus Emre Duman</title>
+  <desc id="desc">Software engineering, artificial intelligence and systems. Dark navy developer-inspired banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#091528"/><stop offset="0.6" stop-color="#10142F"/><stop offset="1" stop-color="#14112E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67E8F9"/><stop offset="0.6" stop-color="#60A5FA"/><stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#384568" stroke-opacity=".23" stroke-width="1"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="34"/></filter>
+  </defs>
+  <rect width="1200" height="310" rx="19" fill="url(#bg)"/>
+  <rect width="1200" height="310" rx="19" fill="url(#grid)"/>
+  <circle cx="985" cy="75" r="105" fill="#6444CD" opacity=".22" filter="url(#glow)"/>
+  <circle cx="1090" cy="280" r="110" fill="#0891B2" opacity=".21" filter="url(#glow)"/>
+  <path d="M0 309 L1200 309" stroke="url(#accent)" stroke-width="3" opacity=".7"/>
+  <rect x="54" y="35" rx="8" width="131" height="28" fill="#0C2C3A" stroke="#205769"/>
+  <circle cx="70" cy="49" r="4" fill="#34D399"/>
+  <text x="85" y="54" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" letter-spacing="1.4" fill="#96E4F6">BUILD MODE</text>
+  <text x="53" y="119" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="800" letter-spacing="1.4" fill="#EDF5FF">YUNUS EMRE</text>
+  <text x="53" y="178" font-family="Arial,Helvetica,sans-serif" font-size="61" font-weight="800" letter-spacing="2" fill="url(#accent)">DUMAN</text>
+  <text x="55" y="216" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" letter-spacing="1" fill="#BCCAE4">AI  /  SOFTWARE  /  SYSTEMS</text>
+  <text x="55" y="257" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#8FA5C9">Curiosity is the engine. Engineering is the process.</text>
+  <g transform="translate(772,59)">
+    <rect x="0" y="0" rx="17" width="377" height="214" fill="#091223" stroke="#536C9A" stroke-opacity=".56" stroke-width="1.5"/>
+    <rect x="0" y="0" rx="17" width="377" height="35" fill="#16213D"/>
+    <path d="M0 35H377" stroke="#374869"/>
+    <circle cx="21" cy="18" r="5" fill="#FF6F88"/><circle cx="39" cy="18" r="5" fill="#FFD166"/><circle cx="57" cy="18" r="5" fill="#4ADE80"/>
+    <text x="192" y="23" font-family="ui-monospace,Consolas,monospace" font-size="12" text-anchor="middle" fill="#B9C7E1">~/yunus/terminal</text>
+    <text x="21" y="75" font-family="ui-monospace,Consolas,monospace" font-size="16" fill="#66E1CF">$</text>
+    <text x="47" y="75" font-family="ui-monospace,Consolas,monospace" font-size="15" fill="#D6E9FF">whoami --focus</text>
+    <text x="21" y="110" font-family="ui-monospace,Consolas,monospace" font-size="15" fill="#7FB6FF">[01]</text>
+    <text x="72" y="110" font-family="ui-monospace,Consolas,monospace" font-size="15" fill="#DCE8FD">AI &amp; ML</text>
+    <text x="21" y="141" font-family="ui-monospace,Consolas,monospace" font-size="15" fill="#7FB6FF">[02]</text>
+    <text x="72" y="141" font-family="ui-monospace,Consolas,monospace" font-size="15" fill="#DCE8FD">Backend &amp; Systems</text>
+    <text x="21" y="172" font-family="ui-monospace,Consolas,monospace" font-size="15" fill="#7FB6FF">[03]</text>
+    <text x="72" y="172" font-family="ui-monospace,Consolas,monospace" font-size="15" fill="#DCE8FD">Cloud &amp; Infrastructure</text>
+    <text x="21" y="196" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#5CE0AF">status: building</text>
+    <rect x="184" y="184" width="10" height="15" fill="#60A5FA" opacity=".9"/>
+  </g>
+</svg>
