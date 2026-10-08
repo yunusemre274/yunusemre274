@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:7c3aed&text=Yunus%20Emre%20Duman&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20MLOps%20Enthusiast%20%7C%20Systems-Oriented%20Builder&descAlignY=60&animation=fadeIn" alt="header" />
-
 # Hi there, I'm Yunus Emre Duman 👋
+
+**Computer Engineering · Artificial Intelligence · MLOps · Systems Engineering**
+
+<!-- The heading above is native GitHub Markdown and remains visible even if an animated image service is down. -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;MLOps+%26+Systems-Oriented+Builder;PyTorch+%7C+Docker+%7C+Linux+%7C+Python;Building+projects+that+mix+AI%2C+software+and+systems" alt="Typing SVG" />
 
