@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.yunusemreduman.com" title="Visit my portfolio">
-    <img src="./assets/profile-banner.svg" alt="Yunus Emre Duman — AI, software engineering and systems" width="100%" />
+    <img src="./profile-banner.svg" alt="Yunus Emre Duman — AI, software engineering and systems" width="100%" />
   </a>
 
   <h1>Hi, I'm Yunus Emre 👋</h1>
