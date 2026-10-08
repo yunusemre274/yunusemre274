@@ -86,7 +86,7 @@ Cloud-native AI deployment (learning & experimentation)
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 🌍 Connect
-<p align="center"> <a href="https://github.com/yunusemre274"> <img src="https://img.shields.io/badge/GitHub-yunusemre274-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/yunus-emre-duman-b8177b309/?isSelfProfile=true"> <img src="https://img.shields.io/badge/LinkedIn-Yunus%20Emre%20Duman-0A66C2?style=for-the-badge&logo=linkedin" /> </a> </p>
+<p align="center"> <a href="https://github.com/yunusemre274"> <img src="https://img.shields.io/badge/GitHub-yunusemre274-181717?style=for-the-badge&logo=github" /> </a> <a href="[https://www.linkedin.com/in/yunus-emre-duman-b8177b309/?isSelfProfile=true](https://www.linkedin.com/in/yunus-emre-duman-b8177b309/?isSelfProfile=true)"> <img src="https://img.shields.io/badge/LinkedIn-Yunus%20Emre%20Duman-0A66C2?style=for-the-badge&logo=linkedin" /> </a> </p>
 
 ---
 
